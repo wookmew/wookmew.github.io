@@ -20,5 +20,8 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-next": "^8.20.0",
     "hexo-util": "^3.3.0"
+  },
+  "scripts": {
+    "build": "hexo generate"
   }
 }
