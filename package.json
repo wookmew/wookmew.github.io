@@ -22,7 +22,8 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-next": "^8.21.1",
     "hexo-util": "^3.3.0",
-    "npm-check-updates": "^17.1.13"
+    "npm-check-updates": "^17.1.13",
+    "prismjs": "^1.30.0"
   },
   "scripts": {
     "build": "hexo generate"
